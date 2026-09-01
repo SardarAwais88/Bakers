@@ -1,0 +1,6 @@
+{
+  "name": "Grow Bakers & Sweets",
+  "description": "Official online store for Grow Bakers & Sweets — Premium cakes, fresh pastries, traditional mithai, artisan breads, brownies, and custom event cakes with same-day delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
